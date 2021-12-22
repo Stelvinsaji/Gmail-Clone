@@ -18,3 +18,6 @@ Link: https://clone-ae56a.web.app/
 
 ## Note
 This is not an original Gmail. Its just a clone 
+
+## License
+MIT License
