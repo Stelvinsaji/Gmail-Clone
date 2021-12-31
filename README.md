@@ -21,5 +21,3 @@ This is not an original Gmail. Its just a clone
 
 ## License
 MIT License
-
-jnsjsjsjjsjn
